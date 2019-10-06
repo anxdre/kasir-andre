@@ -44,7 +44,7 @@
             height: 52px;
             line-height: 50px;
             text-align: right;
-            background-color: #ee7500;
+            background-color: #4784ec;
         }
 
         .content {
@@ -71,7 +71,7 @@
     </style>
 </head>
 <body>
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-top: 60px">
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -80,16 +80,16 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="http://www.joeclayallday.com/images/clive-page-intro.jpg" class="d-block w-100" alt="...">
+            <img src="https://kasirku.net/lp/img/home-dashboard-kasirku.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="http://www.joeclayallday.com/images/clive-work-modal.png" class="d-block w-100" alt="...">
+            <img src="https://cdn3.f-cdn.com/contestentries/196957/9493909/5558bf8376c18_thumb900.jpg" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="http://www.joeclayallday.com/images/clive-work1.png" class="d-block w-100" alt="...">
+            <img src="https://cdn2.f-cdn.com/contestentries/196957/9493909/5558bf8464d28_thumb900.jpg" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="http://www.joeclayallday.com/images/clive-work4.png" class="d-block w-100" alt="...">
+            <img src="https://kasirku.net/lp/img/mockup-11.png" class="d-block w-100" alt="...">
         </div>
     </div>
 </div>
@@ -143,6 +143,10 @@
         fringilla
         ante quis feugiat. Quisque in nisl et est aliquam finibus. Proin ut euismod magna.
     </div>
+    <div class="content">
+        <div class="title m-b-md">
+            Contact Us
+        </div>
     <div class="m-b-md">
         <a href="https://telegram.me/anxdrex" style="margin-right: 16px">Telegram</a>
         <a href="https://www.instagram.com/_anxdre/" style="margin-right: 16px">Instagram</a>
