@@ -18,6 +18,8 @@ class TransactionController extends Controller
     public function index()
     {
         $data['history'] = Transaction::all();
+        $data['recentHistory'] = Transaction::offset(0)->limit(2)->orderby('id','desc')->get();
+
         // dd($data['history'][0]->products);
         return view('transaction.home', $data);
     }

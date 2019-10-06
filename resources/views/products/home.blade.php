@@ -40,6 +40,7 @@
                             @endforeach
                             </tbody>
                         </table>
+                            {{ $entity->links() }}
                     </div>
                 </div>
             </div>
